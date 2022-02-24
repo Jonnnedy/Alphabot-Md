@@ -18,19 +18,16 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Eroze Botz" //namabot
-global.ownername= "Eroze Store" //nama owner
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://ErozeBot.github.io/"
-global.ownernomer = "62895326739863" //nomor owner
-global.ownernomerr = "62895326739863" // nmr owner
+global.botname = "Jonn Botz" //namabot
+global.ownername= "Jonathan" //nama owner
+global.ownernomer = "6282112784747" //nomor owner
+global.ownernomerr = "6282112784747" // nmr owner
 global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
-global.donasi = "./image/donasi.jpg"
+global.donasi = "DANA:082112784747,PULSA:082112784747"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895326739863","62895326739863","62895326739863"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Erozebot-Md' //sticker wm
-global.author = 'Di Buat Oleh Eroze' //sticker wm
+global.owner = ["6282112784747"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Jonathan' //sticker wm
+global.author = 'Di Buat Oleh Jonathan' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -40,15 +37,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+    sukses: 'Dah Dekk',
+    admin: 'Cuman Admin Yang Bisa Dek !',
+    botAdmin: 'Jadiin Bot Admin Dlu goblok !',
+    owner: 'Lu Bukan Owner Gua Dekk !',
+    group: 'Di Grup Bisanya Dekk !',
+    private: 'Bisanya di Pm dek !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: 'Proses ya jing',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
